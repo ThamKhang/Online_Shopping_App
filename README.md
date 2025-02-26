@@ -16,12 +16,10 @@
 
 ## 🛠 **Công nghệ sử dụng**  
 - **Front-end:** ReactJS ⚛️  
-- **Back-end:** Node.js / Express.js 🚀  
+- **Back-end:** Node.js 🚀  
 - **Database:** MongoDB 🗄  
-- **Containerization & Orchestration:** Docker 🐳, Kubernetes ☸️  
+- **Containerization & Orchestration:** Docker 🐳
 - **API Gateway:** GraphQL 🔗  
-- **Queue System:** RabbitMQ 📩  
-- **Process Manager:** PM2 ⚙️  
 
 ---
 
