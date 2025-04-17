@@ -1,11 +1,17 @@
+//config/index.js
 const dotEnv = require("dotenv");
 
-if (process.env.NODE_ENV !== "prod") {
+// Nếu không có NODE_ENV thì load mặc định từ .env
+if (!process.env.NODE_ENV) {
+  dotEnv.config();
+} else {
   const configFile = `./.env.${process.env.NODE_ENV}`;
   dotEnv.config({ path: configFile });
-} else {
-  dotEnv.config();
 }
+console.log('Loaded ENV:', {
+  NODE_ENV: process.env.NODE_ENV,
+  DB_URL: process.env.MONGODB_URI,
+});
 
 module.exports = {
   PORT: process.env.PORT,
