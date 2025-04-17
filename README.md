@@ -12,8 +12,10 @@
 ## 📌 **Tên đề tài**  
 **Ứng dụng Microservices trong phát triển hệ thống thông minh**  
 
-**Đề cương nghiên cứu** - [Google Docs](https://docs.google.com/document/d/1xA961uv5S4E4Lz6rG3oIuUuo4-5l81dp/)
-**Quyển báo cáo giữa kì** - [Google Docs](https://docs.google.com/document/d/1dIOwymlwg5DUhmBjRgpmqsOJuzkGC35DRZ3_A7DoGGE)
+- **Đề cương nghiên cứu** - [Google Docs](https://docs.google.com/document/d/1xA961uv5S4E4Lz6rG3oIuUuo4-5l81dp/)
+- **Quyển báo cáo giữa kì** - [Google Docs](https://docs.google.com/document/d/1dIOwymlwg5DUhmBjRgpmqsOJuzkGC35DRZ3_A7DoGGE)
+- **Quyển báo cáo cuối kì** - [Google Docs](https://docs.google.com/document/d/1dIOwymlwg5DUhmBjRgpmqsOJuzkGC35DRZ3_A7DoGGE)
+- **Tài liệu học thuật** - [Google Docs](https://docs.google.com/document/d/1rPWh_jH4GErb_BmmITSIfTcCjxvGO5xe1k1FGABiMQY)
 ---
 
 ## 🛠 **Công nghệ sử dụng**  
