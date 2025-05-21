@@ -46,7 +46,7 @@ const Home = () => {
 
   return (
     <div className="container-fluid p-0">
-      <img src="bg.jpg" className="card-img" alt="..."></img>
+      <img src="bg.png" className="card-img" alt="..."></img>
       <div
         className="container-flud mb-4"
         style={{
